@@ -14,7 +14,6 @@
 #' @return
 #' @export
 
-require(shiny)
 
 analyseDeSurvie <-
 
